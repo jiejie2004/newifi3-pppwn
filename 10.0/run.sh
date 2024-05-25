@@ -1,0 +1,1 @@
+./pppwn --interface br-lan --fw 1000 --stage1 "/home/ftp/stage1.bin" --stage2 "/home/ftp/stage2.bin" --auto-retry
